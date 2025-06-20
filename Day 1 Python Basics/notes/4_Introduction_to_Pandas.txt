@@ -1,0 +1,5 @@
+# Introduction to Pandas
+
+Loading and inspecting data 
+Data Manipulation
+
